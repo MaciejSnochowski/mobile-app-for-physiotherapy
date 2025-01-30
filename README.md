@@ -1,16 +1,17 @@
-# physiotherapy
+# Aplikacja mobilna wspomagające rehabilitacje pacjentów
 
-A new Flutter project.
+Aplikacja umożliwia stworzenia konta pacjenta i fizjoterapeuty w celu umożliwienia konwersacji, umówienia wizyty. Dodatkowo posiada
+baze danych z protokołami postępowania rehabilitacyjnego po najczęściej spotykanych urazach i w jednostkach chorobowych (przykład protokołu: https://www.melbourneaclguide.com/docs/ACL_Guide.pdf).  
+Program wspomagany jest przez serwer na którym znajdują się dane użytkowników, konwersacji, spotkań oraz protokołów postępowania. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Przykładowe screenshory z aplikacji
+<img src="./assets/log.png" width="50%" height="50%">
+<img src="./assets/rej.png" width="50%" height="50%">
+<img src="./assets/menu.png" width="50%" height="50%">
+<img src="./assets/lista.png" width="50%" height="50%">
+<img src="./assets/kal1.png" width="50%" height="50%">
+<img src="./assets/kal2.png" width="50%" height="50%">
+<img src="./assets/kal3.png" width="50%" height="50%">
+<img src="./assets/kal4.png" width="50%" height="50%">
+<img src="./assets/konw.png" width="50%" height="50%">
+<img src="./assets/historia.png" width="50%" height="50%">
