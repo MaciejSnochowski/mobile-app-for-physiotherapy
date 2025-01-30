@@ -1,0 +1,10 @@
+darkblue: #05367B
+lightblue: #40A4D5
+mid: #0D5198
+
+colors1: 
+#05367B - Głęboki Granat DeepNavy
+#40A4D5 - Turkusowa Laguna TurquoiseLagoon
+#E1B07E - Słoneczny Piasek SunnySand
+#E5BE9E - Karmelowy Blask CaramelGlow
+#CBC0AD - Pustynny Beż DesertBeige
